@@ -14,6 +14,6 @@
 
 ![](https://i.imgur.com/66yWesN.png) 6. 確認已產生檔案
 
-7. Excel 產出
+![](https://i.imgur.com/0UiOK5x.png) 7. Excel 產出
 
-8. PieChart 產出
+![](https://i.imgur.com/3sH9A8a.png) 8. PieChart 產出
